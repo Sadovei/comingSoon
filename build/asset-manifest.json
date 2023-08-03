@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.7ae9bc89.css",
+    "main.js": "/coming-soon/static/js/main.c19d7ff3.js",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/coming-soon/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/coming-soon/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/coming-soon/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/coming-soon/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/coming-soon/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/coming-soon/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/github.svg": "/coming-soon/static/media/github.9dbab434c2d9edc3953457904dcb9d15.svg",
+    "static/media/linkedin.svg": "/coming-soon/static/media/linkedin.cbd44c6b10b24faa22f1045865368dc0.svg",
+    "static/media/facebook.svg": "/coming-soon/static/media/facebook.65bb306e1cd8e0237ceceac67d1ee8de.svg",
+    "index.html": "/coming-soon/index.html",
+    "main.7ae9bc89.css.map": "/coming-soon/static/css/main.7ae9bc89.css.map",
+    "main.c19d7ff3.js.map": "/coming-soon/static/js/main.c19d7ff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae9bc89.css",
+    "static/js/main.c19d7ff3.js"
+  ]
+}
